@@ -32,5 +32,5 @@ When the user issues this command:
 
 ## General Rules
 - **Naming Convention**: You must stringently adhere to the file naming convention `[Year Published]_[Last Name]_[First Name (1st Author Only)]_[First Few Words of Title].[ext]` with no spaces for individual paper downloads and deep summaries.
-- **Topic Folders**: Do not invent new topic folders; categorize papers into existing subfolders under `/Users/username/Documents/1_Work/2_Research/Journals/` whenever possible.
+- **Topic Folders**: Do not invent new topic folders; categorize papers into existing subfolders under `/Users/pradyu/Documents/1_Work/2_Research/Journals/` whenever possible.
 - **Aggregation**: If a source like "Nature" or "Science" is requested, use OpenAlex or EuropePMC to search those specific journals.
